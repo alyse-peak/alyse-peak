@@ -4,7 +4,7 @@ I'm a technical writer with over four years of experience creating user-centered
 
 :computer: **TechEd**: I copyedited instructional content for cloud and DevOps courses, and created lab guides to step students through hands-on learning objectives. 
 
-:credit_card: **Fraud Prevention**: I updated and maintained content within an internal knowledge base for the Customer Success team, worked with Marketing to create customer-facing support documentation, and assisted with QA by performing exploratory and regression testing. 
+:credit_card: **Cyberfraud Prevention**: I updated and maintained content within an internal knowledge base for the Customer Success team, worked with Marketing to create customer-facing support documentation, and assisted with QA by performing exploratory and regression testing. 
 
 :clipboard: **InsurTech**: I updated a full internal knowledge base for insurance software and procedures, which contained over 90 articles.
 
