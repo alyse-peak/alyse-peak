@@ -10,4 +10,4 @@ I'm a technical writer with over four years of experience creating user-centered
 
 :slot_machine: **FinTech/Gaming**: I authored dozens of short-form instructions for slot gameplay configurations and casino kiosk software, as well as a few long-form manuals for kiosk hardware. 
 
-:hospital: **Health Tech**: I created procedural infographics, quick-reference pages, and release notes for a clinical trial management software. 
+:hospital: **HealthTech**: I created procedural infographics, quick-reference pages, and release notes for a clinical trial management software. 
