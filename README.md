@@ -2,7 +2,7 @@
 
 I'm a technical writer with over four years of experience creating user-centered content. I'm extra passionate about cloud, DevOps, and instructional content, but my experience spans across:
 
-:computer: **TechEd**: I copyedited instructional content for cloud and DevOps courses, and created lab guides to step students through hands-on learning objectives. 
+:computer: **EdTech**: I copyedited instructional content for cloud and DevOps courses, and created lab guides to step students through hands-on learning objectives. 
 
 :credit_card: **Cyberfraud Prevention**: I updated and maintained content within an internal knowledge base for the Customer Success team, worked with Marketing to create customer-facing support documentation, and assisted with QA by performing exploratory and regression testing. 
 
