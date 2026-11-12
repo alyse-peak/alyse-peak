@@ -8,9 +8,9 @@ I create documentation that helps users understand, deploy, and work with comple
 
 **Silk | Cloud Infrastructure and Documentation Strategy**
 
-I create and maintain documentation for a cloud data platform deployed across **AWs, Azure, and Google Cloud**. My work includes cloud deployment and planning guidance, architecture and networking documentation, operational best practices, product documentation, and release content. 
+I create and maintain documentation for a cloud data platform deployed across **AWS, Azure, and Google Cloud**. My work includes cloud deployment and planning guidance, architecture and networking documentation, operational best practices, product documentation, and release content. 
 
-I'm also leading a documentation modernization initiative to transform a legacy library of long-form PDF content into a modular, task-oriented documentation experience in GitBook. My works spans information architecture, taxonomy and metadata design, content strategy, migration prioritization, authoring standards, and cross-functional review. 
+I'm also leading a documentation modernization initiative to transform a legacy library of long-form PDF content into a modular, task-oriented documentation experience in GitBook. My work spans information architecture, taxonomy and metadata design, content strategy, migration prioritization, authoring standards, and cross-functional review. 
 
 ---
 
@@ -25,6 +25,9 @@ I translated product and engineering changes for a hands-on learning platform in
 I created and edited instructional content for cloud, Linux, and DevOps courses, including hands-on lab guides that helped learners practice technical objectives in live sandbox environments.
 
 # ✍️ Writing Samples
+
+[📁 Explore my technical writing & documentation strategy portfolio](https://github.com/alyse-peak/writing-samples)
+
 My technical writing portfolio includes examples of:
 
 * Cloud and SaaS documentation
